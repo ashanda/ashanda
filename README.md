@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashan</h1>
-<h3 align="center">A passionate backend developer from Sri Lanka</h3>
+<h3 align="center">A passionate backend developer </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
